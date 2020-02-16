@@ -10,6 +10,6 @@ HTML, CSS, Botstrap
 This is my main portfolio page.  Any projects I create are stored here.
 
 # Contact
-jslota17@comcast.net <br>
-linkedin.com/in/john-slota-83b432165 <br>
-github.com/Jslota25 <br>
+Email: <a href="mailto:jslota17@comcast.net">jslota17@comcast.net</a> <br>
+Github: <a href="https://github.com/Jslota25">github.com/Jslota25</a> <br>
+LinkedIn: <a href="https://www.linkedin.com/in/john-slota-83b432165/">linkedin.com/in/john-slota83b432165</a>
