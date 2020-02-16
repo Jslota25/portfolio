@@ -4,7 +4,7 @@
 @Jslota25
 
 # Technology
-HTML, CSS, Botstrap
+HTML, CSS, Bootstrap
 
 # About
 This is my main portfolio page.  Any projects I create are stored here.
